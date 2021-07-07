@@ -1,0 +1,4 @@
+Задание: переход на новую вкладку браузера
+import time
+import math
+from selenium import webdriver
